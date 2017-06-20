@@ -42,4 +42,4 @@ using System.Runtime.InteropServices;
 // This version string is the official version of the library and is used by the NuGet package.
 // It should follow the rules of Semantic Versioning (http://semver.org/).
 // Not sure NuGet understands 0.y.z versions as being "experimental", so the "-alpha" suffix is also added.
-[assembly: AssemblyInformationalVersion("0.1.0-alpha")]
+[assembly: AssemblyInformationalVersion("0.2.0-alpha")]
